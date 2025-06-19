@@ -9,11 +9,11 @@ Aplikasi FitFat yang ditujukan untuk semua kalangan usia dalam melakukan pencata
 A few features has on this app : <br>
 **1. Login/SignUp & Opening** <br>
 <p align="center">
-  <img src="Opening (new user).png" width="200"/></p>
+  <img src="Opening (new user).png" width="500"/></p>
 <br><br>
 
 **2. Buat Catatan Makanan** <br>
 <p align="center">
-  <img src="Buat catatan makanan.png" width="200"/></p>
+  <img src="Buat catatan makanan.png" width="500"/></p>
 </p>
 <br><br>
