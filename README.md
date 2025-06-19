@@ -8,33 +8,36 @@ Aplikasi FitFat yang ditujukan untuk semua kalangan usia dalam melakukan pencata
 # Fitur
 
 **1. Login/SignUp & Opening** <br>
-<p align="center">
-  <img src="Opening (new user).png" width="1000"/></p>
+<p>
+  <img src="Opening (new user).png" width="1170"/></p>
 <br><br>
 
 **2. Fitur Saya** <br>
-<p align="center">
-  <img src="Buat catatan makanan.png" width="300"/></p>
+<p>
+  <img src="Fitur Saya.png" width="200"/></p>
 </p>
 <br><br>
 
 **3. Fitur Buat Catatan Makanan** <br>
-<p align="center">
-  <img src="Buat catatan makanan.png" width="1000"/></p>
+<p>
+  <img src="Buat catatan makanan.png" width="970"/></p>
 </p>
 <br><br>
 
 **4. Fitur Rekapitulasi Progress** <br>
-<p align="center">
-  <img src="Fitur Progress.png" width="300"/></p>
+<p>
+  <img src="Fitur Progress.png" width="200"/></p>
 </p>
 <br><br>
 
 **5. Fitur Help & Support** <br>
-<p align="center">
-  <img src="Fitur Help.png" width="300"/></p>
+<p>
+  <img src="Fitur Help.png" width="500"/></p>
 </p>
 <br><br>
+
+## Prototype
+<img src="Prototype.png" width="1000"/></p>
 
 # Aplikasi pendukung
  * Figma - Software desain
