@@ -14,25 +14,25 @@ Aplikasi FitFat yang ditujukan untuk semua kalangan usia dalam melakukan pencata
 
 **2. Fitur Saya** <br>
 <p align="center">
-  <img src="Buat catatan makanan.png" width="500"/></p>
+  <img src="Buat catatan makanan.png" width="300"/></p>
 </p>
 <br><br>
 
 **3. Fitur Buat Catatan Makanan** <br>
 <p align="center">
-  <img src="Buat catatan makanan.png" width="500"/></p>
+  <img src="Buat catatan makanan.png" width="1000"/></p>
 </p>
 <br><br>
 
 **4. Fitur Rekapitulasi Progress** <br>
 <p align="center">
-  <img src="Fitur Progress.png" width="500"/></p>
+  <img src="Fitur Progress.png" width="300"/></p>
 </p>
 <br><br>
 
 **5. Fitur Help & Support** <br>
 <p align="center">
-  <img src="Fitur Help.png" width="500"/></p>
+  <img src="Fitur Help.png" width="300"/></p>
 </p>
 <br><br>
 
